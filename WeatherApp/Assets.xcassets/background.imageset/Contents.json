@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "sun-rays-152304506-Shutterstock_Volodymyr-Goinyk.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "sun-rays-152304506-Shutterstock_Volodymyr-Goinyk-1.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "sun-rays-152304506-Shutterstock_Volodymyr-Goinyk-2.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
